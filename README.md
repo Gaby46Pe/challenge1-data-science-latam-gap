@@ -22,19 +22,19 @@ Los datos se cargan directamente desde URLs externas (archivos CSV) especificada
 
 Durante el análisis en el notebook, se generaron varias visualizaciones para comparar las tiendas:
 
-<span style="color: purple;">Gráfico 1: Ingresos Totales por Tienda (Barras)</span>
+**Gráfico 1: Ingresos Totales por Tienda (Barras)**
 
 Insight: La Tienda 1 lidera en ingresos totales, pero la Tienda 4 tiene los ingresos más bajos.
 
-<span style="color: lightblue;">Gráfico 2: Distribución de Categorías (Barras Horizontales)</span>
+**Gráfico 2: Distribución de Categorías (Barras Horizontales)**
 
 Insight: Las categorías "Electrónicos" y "Muebles" dominan el volumen de ventas y los ingresos en las cuatro tiendas.
 
-<span style="color: gold;">Gráfico 3: Distribución de Calificaciones (Líneas/Barras)</span>
+**Gráfico 3: Distribución de Calificaciones (Líneas/Barras)**
 
 Insight: Todas las tiendas tienen una mayoría de calificaciones de 5. Sin embargo, un cálculo del promedio revela que la Tienda 3 tiene la satisfacción promedio más alta (4.04), mientras que la Tienda 1 tiene la más baja (3.98).
 
-<span style="color: pink;">Gráfico 4: Costo de Envío Promedio (Barras)</span>
+**Gráfico 4: Costo de Envío Promedio (Barras)**
 
 Insight: La Tienda 4 ofrece los costos de envío más bajos, mientras que la Tienda 1 tiene los más altos.
 
